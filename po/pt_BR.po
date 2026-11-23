@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kittiesgtk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-23 12:26-0300\n"
-"PO-Revision-Date: 2026-11-23 12:49-0300\n"
+"PO-Revision-Date: 2026-11-23 16:05-0300\n"
 "Last-Translator: Pedro Lucas <pedrolucasdev644@gmail.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
@@ -194,7 +194,7 @@ msgstr "Sair"
 #: src/shortcuts-dialog.blp:31
 msgctxt "Shortcut category"
 msgid "Image History"
-msgstr "História da imagem"
+msgstr "Histórico de imagens"
 
 #. Name of the keyboard shortcut
 #: src/shortcuts-dialog.blp:34
@@ -476,12 +476,12 @@ msgstr "Você sabia?"
 #: src/window.blp:264
 msgctxt "Preference Subitle"
 msgid "The cat on the app’s icon is named Rudi? He was my cat."
-msgstr "O gato no ícone do app chamado Rudy era o meu gato."
+msgstr "O gato no ícone do app se chama Rudi e era o meu gato."
 
 #: src/window.blp:270
 msgctxt "Preference Subitle"
 msgid "The cat on the app’s icon is named Miziany? He is my cat."
-msgstr "O gato no ícone do app chamado Miziany é o meu gato."
+msgstr "O gato no ícone do app se chama Miziany e é o meu gato."
 
 #. Label for menu item
 #: src/window.blp:281
@@ -499,7 +499,7 @@ msgstr "_Copiar imagem"
 #: src/window.blp:293
 msgctxt "Menu item"
 msgid "S_tarred"
-msgstr "_Favoritas"
+msgstr "_Favoritos"
 
 #. Label for menu item
 #: src/window.blp:300
@@ -518,7 +518,7 @@ msgstr "_Preferências"
 #: src/window.blp:310
 msgctxt "Menu item"
 msgid "_About Kitties"
-msgstr "_Sobre o app Gatinhos"
+msgstr "Sobre o _app Gatinhos"
 
 #~ msgctxt "Button tooltip"
 #~ msgid "Copy Image"
