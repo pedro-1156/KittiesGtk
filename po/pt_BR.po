@@ -69,14 +69,14 @@ msgstr "Janela principal do app Gatinhos mostrando uma imagem do Rory"
 # do (singular) briga não fica bem acompanhado de Gatinhos (plural)
 #: data/io.github.Micro856.KittiesGtk.metainfo.xml.in.in:46
 msgid "Main Window of Kitties showing an image of Goober with “Cat & Image Picker” Menu open"
-msgstr "Janela principal do app Gatinhos mostrando uma imagem do Goober com o menu “Cat & Image Picker”"
+msgstr "Janela principal do app Gatinhos mostrando uma imagem do Goober com o menu “Selecionador por gato e imagem” aberto"
 
 # Coloquei do app Gatinhos em vez de do Gatinhos pois
 # do (singular) briga não fica bem acompanhado de Gatinhos (plural)
 #: data/io.github.Micro856.KittiesGtk.metainfo.xml.in.in:50
 msgid "Main Window of Kitties showing an image of Gary with “Cat & Image Picker” Menu and Cat Picker open"
 msgstr ""
-"Janela principal do app Gatinhos mostrando uma imagem do Gary com o menu “Selecionador por gato e imagem”"
+"Janela principal do app Gatinhos mostrando uma imagem do Gary com o menu “Selecionador por gato e imagem” aberto"
 
 #: data/io.github.Micro856.KittiesGtk.gschema.xml:6
 msgid "Currently selected cat"
